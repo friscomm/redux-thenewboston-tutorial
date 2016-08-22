@@ -44,13 +44,13 @@ export default function(){
 },
 {
   id: 4,
-	"title" : "An American Crime",
-	"genres" : [
+	title : "An American Crime",
+	genres : [
 		"Biography",
 		"Crime",
 		"Drama"
 	],
-	"imdb" : {
+	imdb : {
 		"id" : "tt0802948",
 		"rating" : 7.4,
 		"votes" : 24278
@@ -58,11 +58,11 @@ export default function(){
 },
 {
   id: 5,
-	"title" : "CF: Two Little Letters",
-	"genres" : [
+	title : "CF: Two Little Letters",
+	genres : [
 		"Documentary"
 	],
-	"imdb" : {
+	imdb : {
 		"id" : "tt2075131",
 		"rating" : null,
 		"votes" : null
@@ -70,13 +70,13 @@ export default function(){
 },
 {
   id: 6,
-	"title" : "CC 2010",
-	"genres" : [
+	title : "CC 2010",
+	genres : [
 		"Short",
 		"Adventure",
 		"Sci-Fi"
 	],
-	"imdb" : {
+	imdb : {
 		"id" : "tt1428007",
 		"rating" : 5.5,
 		"votes" : 10
@@ -84,12 +84,12 @@ export default function(){
 },
 {
   id: 7,
-	"title" : "EZ Money",
-	"genres" : [
+	title : "EZ Money",
+	genres : [
 		"Family",
 		"Comedy"
 	],
-	"imdb" : {
+	imdb : {
 		"id" : "tt0443494",
 		"rating" : 3.7,
 		"votes" : 111
