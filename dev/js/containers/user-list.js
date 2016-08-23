@@ -13,7 +13,6 @@ class UserList extends Component {
               onClick={() => this.props.selectUser(user)}
               key={user.id}>{user.first} {user.last}
               <br />
-              <img src={user.thumbnail}></img>
             </li>
         );
     });
